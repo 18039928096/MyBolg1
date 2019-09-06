@@ -1,0 +1,32 @@
+body{
+	/*设置背景颜色
+	*background-color: #9ACD32;
+	*设置背景图,背景图和背景色属性不会被继承
+	*background-image: url(../img/樱花.jpg);
+	*设置字体的大小
+	*font-size: 24px;
+	*背景图像的位置
+	*background-position: left,*;
+	*background-position:200px 80px;
+	*以左上角为(0,0)坐标,向右移动200px,向下移动80px
+	*background-position:200px,200px;
+	 图片是否重复
+	*background-repeat:no-repeat;
+	* 图片是否随着内容滚动
+	*background-attachment: fixed;*/
+	/*使用background属性依次声明多个北京属性*/
+	/*background:#1E90FF url(../img/樱花.jpg) no-repeat fixed top;*/
+	background-color: darkorchid;
+	font-family: "微软雅黑";
+	background-image: url(../img/1-13纸牌/0.jpg);
+	background-position:100px 80px;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+
+
+
+
+
+
+
+}

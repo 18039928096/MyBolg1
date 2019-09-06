@@ -1,0 +1,68 @@
+li{
+	font-size: 20px;
+	font-family: "楷体";
+	line-height: 28px;
+	background-color: #AAAAAA;
+
+	float: left;
+	text-align: center;
+	list-style-type: none;
+	
+}
+a{
+	float: left;
+	width: 120px;
+}
+a:link{
+	color: #1E90FF;
+	text-decoration: none;
+}
+a:hover{
+	background-color: #F3F3F3;
+	color: red;
+	text-decoration: underline;
+}
+#li1{
+	list-style-image:url(../img/首页.png);
+}
+#li2{
+	list-style-image:url(../img/用户管理.png);
+}
+#li3{
+	list-style-image:url(../img/超市.png);
+}
+#li4{
+	list-style-image:url(../img/订单.png);
+}
+#li5{
+	list-style-image:url(../img/退出.png);
+}
+#ultd{
+	background-color: #999999;
+	width: 60%;
+}
+.frameset{
+	background-color: #999999;
+}
+#img{
+	width: 60px;
+}
+#ultable{
+	background-color: #999999;
+	width: 20%;
+}
+#button{
+	text-align: center;
+}
+.td1{
+	width: 10%;
+}
+.td3{
+	width: 30%;	
+}
+#tr{
+	background-color: #999999;
+}
+.classcolor{
+	background-color: #EEEEEE;
+}

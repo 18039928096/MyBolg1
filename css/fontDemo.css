@@ -1,0 +1,50 @@
+li{
+	font-size: 20px;
+	font-family: "楷体";
+	line-height: 28px;
+	
+	float: left;
+	text-align: center;
+	list-style-type: none;
+	
+}
+a{
+	float: left;
+	width: 150px;
+	background-color: #AAAAAA;
+}
+#li1{
+	list-style-image:url(../img/首页.png);
+}
+#li2{
+	list-style-image:url(../img/用户管理.png);
+}
+#li3{
+	list-style-image:url(../img/超市.png);
+}
+#li4{
+	list-style-image:url(../img/订单.png);
+}
+#li5{
+	list-style-image:url(../img/退出.png);
+}
+#title{
+	text-decoration: underline;
+	text-transform: uppercase;
+	white-space: nowrap;
+	color: cornflowerblue;
+	text-align: center;
+}
+.beaufont{
+	font:italic 16px "微软雅黑";
+	text-indent: 50px;
+}
+a:link{
+	color: #1E90FF;
+	text-decoration: none;
+}
+a:hover{
+	background-color: #F3F3F3;
+	color: red;
+	text-decoration: underline;
+}
